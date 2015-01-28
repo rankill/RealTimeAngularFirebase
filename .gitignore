@@ -1,0 +1,13 @@
+# Ignores
+node_modules
+dist
+.tmp
+.sass-cache
+app/bower_components
+\.DS_Store
+\.classpath
+\.project
+\.settings
+\.metadata/
+Servers/
+target/
